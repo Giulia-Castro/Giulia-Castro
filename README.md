@@ -1,18 +1,18 @@
-## Olá! Sou a Giulia 👋
+## Olá! Sou a Giulia.
 
-Analista de Operações de Sistemas em transição para **Back-end**.  
+Analista de Operações de Sistemas com interesse em **Back-end**.  
 Atualmente focada em construir APIs REST sólidas e trabalhar com dados.
 
-### 🚀 Stack em desenvolvimento
+###  Stack em desenvolvimento
 - **Linguagens:** Python · C# · JavaScript
 - **Back-end:** FastAPI · .NET
 - **Banco de dados:** PostgreSQL · SQL
 - **Ferramentas:** Git · Docker
 
-### 📌 Projetos em destaque
-- Em breve!
+###  Projetos em destaque
+- API de Animais
 
-### 📫 Contato
+###  Contato
 - LinkedIn: https://br.linkedin.com/in/giulia-castro-a8302b260
 
 ---

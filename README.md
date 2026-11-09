@@ -1,7 +1,7 @@
 ## Olá! Sou a Giulia.
 
 Sou analista de Operações de Sistemas e
-atualmente estou focada em construir APIs REST sólidas e trabalhar com dados.
+atualmente estou focada em construir APIs REST sólidas, trabalhar com dados e automações.
 
 ###  Stack em desenvolvimento
 - **Linguagens:** Python · C# · JavaScript
